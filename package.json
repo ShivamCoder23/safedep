@@ -11,6 +11,7 @@
   "dependencies": {
     "@buf/safedep_api.connectrpc_es": "^1.6.1-20250205134326-1572aa3ce34f.2",
     "@connectrpc/connect-web": "^1.6.1",
+    "@layer5/sistent": "^0.14.165",
     "@radix-ui/react-dialog": "^1.1.6",
     "@radix-ui/react-separator": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.2",
