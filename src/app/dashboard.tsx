@@ -92,7 +92,7 @@ export default function PackageDashboard({ insights, error }: DashboardProps) {
     useState<React.ComponentType<ComponentProps> | null>(null); // Use the union type here
 
   if (error) {
-    return <div className="text-red-500 p-4">Error: {error}</div>;
+    return <div className="text-red-500 p-4">Error are: {error}</div>;
   }
 
   if (!insights) {
